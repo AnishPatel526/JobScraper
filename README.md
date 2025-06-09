@@ -13,11 +13,11 @@ A Python job scraper utilizing the **Adzuna Jobs API** to fetch software interns
 ## Project Structure
 
 job-scraper/
-├── adzuna_scraper.py # Main script
-├── requirements.txt # Python dependencies
-├── .gitignore # Keeps creds.json and venv out of Git
-├── README.md # Currently Reading!
-└── creds.json # (Not tracked) Google Sheets API credentials / Stores API Key
+ - adzuna_scraper.py # Main scrip
+ - requirements.txt # Python dependencies
+ - .gitignore # Keeps creds.json and venv out of Git
+ - README.md # Currently Reading!
+ - creds.json # (Not tracked) Google Sheets API credentials / Stores API Key
 
 
 ---
