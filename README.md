@@ -27,12 +27,12 @@ job-scraper/
 # 1. Clone the repo
 
 ```bash```
-git clone https://github.com/AnishPatel526/JobScraper.git
-cd JobScraper
+- git clone https://github.com/AnishPatel526/JobScraper.git
+- cd JobScraper
 
 # 2. Install Requirements (If you don't already have)
 
-pip install -r requirements.txt
+- pip install -r requirements.txt
 
 # 3. Set up Google Sheets API
 
@@ -43,13 +43,12 @@ pip install -r requirements.txt
 
 # 4. Run the scraper!! :)
 
-python adzuna_scraper.py
-
+- python adzuna_scraper.py
 
 **Contact**
 
-Feel free to connect with me or reach out with any questions!!
-GitHub: @AnishPatel526
-LinkedIn: www.linkedin.com/in/anish-patel-254a18264
-Email: abpatel1@unc.edu
+- Feel free to connect with me or reach out with any questions!!
+- GitHub: @AnishPatel526
+- LinkedIn: www.linkedin.com/in/anish-patel-254a18264
+- Email: abpatel1@unc.edu
 
