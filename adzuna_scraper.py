@@ -14,8 +14,8 @@ from gspread_formatting import (
 )
 
 # -------- API CONFIG --------
-APP_ID = "bdef960d"
-API_KEY = "2809d49c5e6ade704365adf507170ecb"
+APP_ID = "INSERT_ID"
+API_KEY = "INSERT_KEY"
 COUNTRY = "us"
 SEARCH_TERM = "software intern"
 RESULTS_PER_PAGE = 50  # can increase for more jobs
